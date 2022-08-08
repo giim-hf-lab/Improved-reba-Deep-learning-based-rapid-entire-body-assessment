@@ -64,7 +64,10 @@ python prepare_data_2d_custom.py -i ../inference/output_directory -o myvideos
 cd ..
 python run.py -d custom -k myvideos -arc 3,3,3,3,3 -c checkpoint \     
 --evaluate reba_pose.bin --render --viz-subject input.mp4 --viz-action custom \
---viz-camera 0 --viz-video inference/input_directory/manu3_carrying.mp4 --viz-output input.mp4 --viz-export outputfile --viz-size 6  
+--viz-camera 0 --viz-video inference/input_directory/manu3_carrying.mp4 --viz-output input.mp4 --viz-export outputfile --viz-size 6 
+
+# the input video has been induced
+python evaluate.py
 ```
 
 
