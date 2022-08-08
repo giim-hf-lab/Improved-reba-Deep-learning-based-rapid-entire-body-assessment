@@ -1,7 +1,7 @@
 # Improved-reba-Deep-learning-based-rapid-entire-body-assessment
 
 ##Introduce
-This is a ergonomic assessment tool based on the reba rule, which can precisely classify the behavior risk levle. In order to demonstrate the validity, some examples of gif file from different industries can be shown from following, more visual behavioral risk assessment videos have been released at ：
+This is a ergonomic assessment tool based on the reba rule, which can precisely classify the behavior risk levle. In order to demonstrate the validity, some examples of gif file from different industries can be shown from following, more visual behavioral risk assessment videos have been released at https://youtu.be/CYp83d9IOSg：
 
 ![](gif/c-flooring.gif)
 *<p align="center">**construction worker-laying floor**</p>*
