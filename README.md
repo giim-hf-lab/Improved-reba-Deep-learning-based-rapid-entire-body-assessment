@@ -46,7 +46,7 @@ pip install -r requirement
 
 ### Download weight file
 download the weight file from google cloud, and put it into the folder "checkpoint/"
-``https://drive.google.com/file/d/1buFfhJ4UcCkjNsv2BRzWXA6sD5uRUpnR/view?usp=sharing``
+``https://drive.google.com/file/d/1pLWtlenS0KOM89mqGDMnJLIvLEFLWhtA/view?usp=sharing``
 
 ### Assess the your video
 ```sh
